@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "cpt2019",
+    "name": "cpt2019-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -1210,7 +1210,7 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"EkJOby4gNzA1LCBEYXRvbmcgU3RyZWV0LCBZb25na2FuZyBEaXN0cmljdCwgVGFpbmFuIENpdHksIFRhaXdhbiA3MTAiGxIZChQKEgl7eJi82nBuNBHN-ZQVVDvXfxDBBQ\" value=\"No. 705, Datong St., Yongkang Dist., Tainan City 710, Taiwan (R.O.C.)\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"EkJOby4gNzA1LCBEYXRvbmcgU3RyZWV0LCBZb25na2FuZyBEaXN0cmljdCwgVGFpbmFuIENpdHksIFRhaXdhbiA3MTAiGxIZChQKEgl7eJi82nBuNBHN-ZQVVDvXfxDBBQ\" value=\"台南市永康區大同街705號\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "rpl83vxmKs",
           "_anchor": "map1-7",
           "_protectedParams": [],
