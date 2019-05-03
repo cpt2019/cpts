@@ -709,7 +709,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1286.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2019-05-03-1.52.14-1876x829.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -724,11 +724,11 @@
                 "contentAlign": "center",
                 "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-4398-2000x1335.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -742,11 +742,11 @@
                 "contentAlign": "left",
                 "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
